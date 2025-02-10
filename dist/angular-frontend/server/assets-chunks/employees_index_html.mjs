@@ -8,6 +8,6 @@ export default `<!DOCTYPE html><html lang="en" data-beasties-container><head>
 </style><link rel="stylesheet" href="styles-HWWAQ5UR.css" media="print" onload="this.media='all'"><noscript><link rel="stylesheet" href="styles-HWWAQ5UR.css"></noscript></head>
 <body><!--nghm-->
   <app-root ng-version="19.0.1" ngh="1" ng-server-context="ssg"><nav class="navbar navbar-expand-sm bg-primary navbar-dark"><ul class="navbar-nav"><li class="nav-item"><a routerlink="employees" routerlinkactive="active" class="nav-link">Employee List</a></li><li class="nav-item"><a routerlink="create-employees" class="nav-link">Create Employee</a></li></ul></nav><router-outlet></router-outlet><app-employee-list ngh="0"><h2> Employee List </h2><table class="table table-striped"><thead><tr><th> First Name </th><th> Last Name </th><th> Email Id </th><th> Actions </th><th> Actions </th></tr></thead><tbody><!----></tbody></table></app-employee-list><!----><h1 class="text-center"> angular-frontend</h1><div class="container"></div><footer class="footer"><div class="container"><span>All Rights Reserved 2020 NB</span></div></footer></app-root>
-<script src="polyfills-FFHMD2TL.js" type="module"></script><script src="main-MP6I3CPE.js" type="module"></script>
+<script src="polyfills-FFHMD2TL.js" type="module"></script><script src="main-4VSQW7OB.js" type="module"></script>
 
 <script id="ng-state" type="application/json">{"__nghData__":[{"t":{"16":"t0"},"c":{"16":[]}},{"c":{"8":[{"i":"c1550029009","r":1}]}}]}</script></body></html>`;
